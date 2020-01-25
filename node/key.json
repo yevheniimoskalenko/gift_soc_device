@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gift-devace",
+  "private_key_id": "934308b62d0d6501af2ccb453beab8883ac77278",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEi6UiMDkAcCgC\nu5WRX/L6vn5USGIknCnvBHK6N++xKp0UU6FmbPT8kobFUP7etXhEp/ldBNsw3otM\ngHMNbsb1PZUr41Is6aUEou8YW3fg9VdU9WS1xdCESzqjH5vYFouynZF2p47JpQOd\nsMjMf7gn6Z4pl888yyhMRK2pCggHVmcewwBEXqtm/ddUVl3N6vW+vJ/noAIu9Wln\n261UfEsYMpzTMQFg1kZNZNNccDtCYqA6Z0LLcNJa1XYjauTB3Wti6R0klxeGemua\ncwbPh02nhgn+paFIMaoetlI9gIbqV+9UatfctvQTDb7ABYqO96QGRFReBHI4Oh43\npHlQP4bfAgMBAAECggEAOAachHHdlc/iv+CsAnwo3awWg7z8aPYxB+arM4UFaOm+\nTBCI1hMiBKtaCn4LoP12so91SDw9pSES8TQ+V6pnwXmT/6Y1gwL5HKi7YiSUuAYH\npnqrAhvI1CVDqkM03/SRTtGWqQ2baMSGktlVa+HOY2Y3RSD2nJxGuPLs0949qqVJ\nAxsyoDlOWgHc1H9xNX/YTzl0m63v1MvBTeyUbJ0kUrX7rmL+dRIG/NPpzcU7RxqF\n8uJZvMiLvvqH0oD+R16CbR+pNpppSPWAq1/9HFT/GWV8aQeBEp17MoYo/ScjIc5u\nrblgV9Xb2QCp8R49WT0/H52IV8/Ie2KkEEfnI/fmJQKBgQDsM4UjEbHvYXT8Ij0r\n2STO9JyKu0dDCGgMO71CFyTDMqnXjNQegbhYgE38g7G5mI47yidegqrTa4C6sK7W\nRRKepgVahxm1fctGIMULVTUr4EVitg+yuJlQEjD7kaC0flaIS/c733appSGQ4FFF\nhm2ImgB1xi9VFxedHoj5RxdyKwKBgQDVBS3nPJxS2ACLPsGyNQBIsNiE3iXKW1Yl\nDfIOZX3xPJS1LpeGcrdmOMIWurgzyEuHaSrsguY7kLLJyA3xuBU0hMlq7G0uIlN9\nTVOPiCHj3GqRZGQa3MPbErr+eNdULFvyp59lyhf1iesf8oQ2WbeTrdAsG8YeRXe4\nNRVXbzLIHQKBgQDgHPY7UyPYtUjRnw8ZlrwlHdWWkKHKCaTnzpsBpYH9MAoU+oud\nsomed4cHjFFKf2SdeG8obqT1W3BWMySBLCLBo1c7ESskmIoSLS+pVBzSV8aeJY75\njcvyPIB7gi7Qc3tZcXLRPXOS/Zq+owiaBjXRwgWjufrZKsL+EqX2mCy35wKBgQCF\nC2sUFYL9KvOMBHItv3Sh8fIJakXoEQvIsOERpMn4NYIbdzIkQtnQ+noegBg0H1Et\nDb5FYawyX7mK1WwAIJz95EF4ipnWSpIinH0oFDo2eqAEltL/BAs/dH9eGFNEuz/i\nWlbv2D0GmlFD7tAssfQ6REDUi7Q9i92uK1lc9pKc8QKBgHPhC3CizHHyJSB3xykP\nzk+xDJXaaFVn73rATJ7bmdapAnw9qByXMtzd8ZrqULVuM5jiipTCXWLRipaDfzsQ\nXP8fVoyFMAUB7djefpN2mrmgsCZIlrVdlifWWGADlbWZnpxD4DDcIQr+G8oS8igW\nrt1yV1n7gZ+zVv2dJhxZ0QAg\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-1ss0n@gift-devace.iam.gserviceaccount.com",
+  "client_id": "102333310037035933990",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-1ss0n%40gift-devace.iam.gserviceaccount.com"
+}

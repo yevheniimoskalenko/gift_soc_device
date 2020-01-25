@@ -1,0 +1,10 @@
+ {
+   apiKey: "AIzaSyDkP8-8yzzz3Oh51DOakCVCXEDGnL93Sdw",
+   authDomain: "gift-devace.firebaseapp.com",
+   databaseURL: "https://gift-devace.firebaseio.com",
+   projectId: "gift-devace",
+   storageBucket: "gift-devace.appspot.com",
+   messagingSenderId: "1004486343977",
+   appId: "1:1004486343977:web:08bc0da3e899ae84aa8b38",
+   measurementId: "G-J9492DF339"
+ }
