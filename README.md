@@ -1,6 +1,6 @@
 # gift_soc_device
 
-> My doozie Nuxt.js project
+> Проект в которому будет написана авторизация и регистарция и протестированая с помощью jest, а база данных firebase
 
 ## Build Setup
 
